@@ -1,5 +1,5 @@
 
-### <div align="center">I'm SadDev, a full-time full-stack freelance developer 👨‍💻 working remotely since 2021 🚀</div>  
+### <div align="center">I'm SadDev, a full-time full-stack developer 👨‍💻 working remotely since 2021 🚀</div>  
   
 
 - 🔭 I’m currently working from [Home](https://github.com/caominhdev)  
@@ -119,6 +119,3 @@
                 />
             </a></div>
 <br />
-
-----
-<div align="center">Generated using <a href="https://profilinator.rishav.dev/" target="_blank">Github Profilinator</a></div>
