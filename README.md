@@ -5,7 +5,7 @@
 - 🔭 I’m currently working from [Home](https://github.com/caominhdev)  
   
 
-- 🌱 I’m currently learning C# and Angular   
+- 🌱 I’m currently learning ReactJS
   
 
 - ❓ Ask me about anything related to Full stack and related technologies  
