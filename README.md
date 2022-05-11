@@ -1,5 +1,5 @@
 
-### <div align="center">I'm SadDev, a full-time full-stack developer 👨‍💻 working remotely since 2021 🚀</div>  
+### <div align="center">I'm Minh, a full-time full-stack developer 👨‍💻 working remotely since 2021 🚀</div>  
   
 
 - 🔭 I’m currently working from [Home](https://github.com/caominhdev)  
@@ -35,10 +35,8 @@
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/jquery.png" alt="jQuery" height="50" />  
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/redux-original.svg" alt="Redux" height="50" />  
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/gulp-plain.svg" alt="gulp.js" height="50" />  
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/d3js-original.svg" alt="D3.js" height="50" />  
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/bem.svg" alt="BEM" height="50" />  
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/sass-original.svg" alt="Sass" height="50" />  
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/backbonejs-original-wordmark.svg" alt="Backbone.js" height="50" />  
 </div>
 
 </td><td valign="top" width="33%">
