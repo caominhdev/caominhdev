@@ -2,7 +2,7 @@
 ### <div align="center">I'm Minh, a full-time full-stack developer 👨‍💻 working remotely since 2021 🚀</div>  
   
 
-- 🔭 I’m currently working from [Home](https://github.com/caominhdev)  
+- 🔭 I’m currently working from [NEXON] (https://www.nexon.com)  
   
 
 - 🌱 I’m currently learning ReactJS
