@@ -12,7 +12,7 @@
 - 🌱 I’m currently learning React JS  
   
 
-- ❓ Ask me about anything related to MERN stack and related technologies  
+- ❓ Ask me about anything related to MERN, SDAC stack and related technologies  
   
 
 - ⚡ Fun fact: I use tabs over spaces 😆  
