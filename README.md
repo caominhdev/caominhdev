@@ -105,13 +105,13 @@
 <br/>  
 
 
-## Github Stats  
-<div align="center"><img src="https://github-readme-stats.vercel.app/api?username=caominhdev&show_icons=true&count_private=true&hide_border=true" align="center" /></div>  
-
-<div align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=caominhdev&hide_border=true&layout=compact" align="center" /></div>  
+### GitHub Stats 📈
+<!--<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=caominhdev" alt="caominhdev" /></a> </p>-->
+![github-readme-stats](https://github-readme-stats.vercel.app/api?username=caominhdev&show_icons=true&locale=en&theme=tokyonight)
+![github-readme-streak-stats](https://github-readme-streak-stats.herokuapp.com/?user=caominhdev&theme=tokyonight)
+![top-language](https://github-readme-stats.vercel.app/api/top-langs?username=caominhdev&count_private=true&show_icons=true&locale=en&layout=compact&theme=tokyonight)
 
 <br/>  
-
 
 ## Recent Blog Posts  
 <!-- BLOG-POST-LIST:START -->  
