@@ -1,18 +1,17 @@
-name: Latest tumblr activity
+name: Latest blog post workflow
 on:
-  workflow_dispatch:
   schedule:
-    - cron:  '0 * * * *'
-permissions:
-      contents: write
+    # Runs every hour
+    - cron: '0 * * * *'
+  workflow_dispatch:
+
 jobs:
   update-readme-with-blog:
-    name: Update this repo's README with latest activity from Tumblr
+    name: Update this repos README with latest blog posts
     runs-on: ubuntu-latest
     steps:
-      - uses: actions/checkout@v3
-      - uses: caominhdev/blog-post-workflow@v1
+      - uses: actions/checkout@v2
+      - uses: caominhdev/blog-post-workflow@master
         with:
-          comment_tag_name: "TUMBLR"
+          max_post_count: "10"
           feed_list: "https://gaixinhchonloc.com/rss/"
-#           template: "<tr><td>$pubDate</td><td>$description</td></tr>"
