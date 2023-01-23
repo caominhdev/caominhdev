@@ -14,10 +14,6 @@ jobs:
       - uses: actions/checkout@v3
       - uses: caominhdev/blog-post-workflow@master
         with:
-          feed_names: Tumblr
-          feed_list: "https://gaixinhchonloc.com/rss/"
           max_post_count: "10"
-          date_format: "mmm d, yyyy"
-          custom_tags: "link/link:linkImage/"
-          template: '<img width="140px" src="$linkImage">'
+          feed_list: "https://rss.app/feeds/MdFLsB1tjQLoogc9.xml"
           committer_email: "caoquocminhktktbd@gmail.com"
