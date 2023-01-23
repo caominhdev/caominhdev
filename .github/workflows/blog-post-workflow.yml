@@ -1,4 +1,4 @@
-name: Latest stack oveflow activity
+name: Latest tumblr activity
 on:
   workflow_dispatch:
   schedule:
@@ -7,11 +7,11 @@ permissions:
       contents: write
 jobs:
   update-readme-with-blog:
-    name: Update this repo's README with latest activity from StackOverflow
+    name: Update this repo's README with latest activity from Tumblr
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v3
-      - uses: gautamkrishnar/blog-post-workflow@v1
+      - uses: caominhdev/blog-post-workflow@v1
         with:
           comment_tag_name: "TUMBLR"
           feed_list: "https://gaixinhchonloc.com/rss/"
