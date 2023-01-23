@@ -71,11 +71,6 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 
 ### :writing_hand: Blog Posts :
 
-<!-- TUMBLR:START -->
-- [https://ift.tt/7juWIgQ](https://gaixinhchonloc.com/post/688389209897238528)
-- [https://ift.tt/7juWIgQ](https://gaixinhchonloc.com/post/688389208477515776)
-- [https://ift.tt/7juWIgQ](https://gaixinhchonloc.com/post/688389207501176832)
-- [https://ift.tt/jiFm7wb](https://gaixinhchonloc.com/post/686370573356613632)
-- [https://ift.tt/qLzipJW](https://gaixinhchonloc.com/post/683195919050637312)
-<!-- TUMBLR:END -->
+<!-- BLOG-POST-LIST:START -->
+<!-- BLOG-POST-LIST:END -->
 
