@@ -15,4 +15,4 @@ jobs:
         with:
           comment_tag_name: "TUMBLR"
           feed_list: "https://gaixinhchonloc.com/rss/"
-          template: "<tr><td>$pubDate</td><td>$description</td></tr>"
+#           template: "<tr><td>$pubDate</td><td>$description</td></tr>"
