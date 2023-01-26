@@ -1,3 +1,10 @@
+
+<div align="center">
+  <a href="https://app.daily.dev/DailyDevTips">
+    <img src="https://github.com/caominhdev/caominhdev/blob/master/devcard.svg" width="400" alt="Cao Minh Dev Card"/>
+  </a>
+<div>
+  
 <div id="header" align="center">
   <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
   <div id="badges">
