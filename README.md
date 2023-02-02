@@ -1,12 +1,8 @@
 
-<div align="center">
-  <a href="https://app.daily.dev/DailyDevTips">
-    <img src="https://github.com/caominhdev/caominhdev/blob/master/devcard.svg" width="400" alt="Cao Minh Dev Card"/>
-  </a>
-<div>
   
 <div id="header" align="center">
   <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
+  
   <div id="badges">
     <a href="https://www.linkedin.com/in/minh-cao-qu%E1%BB%91c-99a9311a4/">
       <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
@@ -17,12 +13,15 @@
     <a href="#">
       <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
     </a>
+    
   </div>
+ 
   <img src="https://komarev.com/ghpvc/?username=caominhdev&style=flat-square&color=blue" alt="profile views"/>
   
   <h1>
-    Hey there
-    <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
+    <a href="https://app.daily.dev/DailyDevTips">
+      <img src="https://github.com/caominhdev/caominhdev/blob/master/devcard.svg" width="400" alt="Cao Minh Dev Card"/>
+    </a>
   </h1>
   
   <div align="center">
