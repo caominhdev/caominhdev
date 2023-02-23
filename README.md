@@ -1,7 +1,9 @@
 
   
 <div id="header" align="center">
-  <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
+  <div align="center">
+    <img src="https://media.giphy.com/media/10ECejNtM1GyRy/giphy.gif" width="auto" height="300"/>
+  </div>
   
   <div id="badges">
     <a href="https://www.linkedin.com/in/minh-cao-qu%E1%BB%91c-99a9311a4/">
@@ -24,9 +26,7 @@
     </a>
   </h1>
   
-  <div align="center">
-    <img src="https://media.giphy.com/media/o0vwzuFwCGAFO/giphy.gif" width="auto" height="300"/>
-  </div>
+ 
 </div>
 
 ---
