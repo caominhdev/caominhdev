@@ -1,6 +1,6 @@
 <div id="header" align="center">
   <div align="center">
-    <img src="https://media.giphy.com/media/10ECejNtM1GyRy/giphy.gif" width="auto" height="300"/>
+    <img src="https://media.giphy.com/media/MDJ9IbxxvDUQM/giphy.gif" width="auto" height="300"/>
   </div>
   <h1>
     <a href="https://app.daily.dev/DailyDevTips">
