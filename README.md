@@ -1,3 +1,7 @@
+###
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&random=false&width=435&lines=See+u+again!)](https://git.io/typing-svg)
+
+###
 <h2 align="left">Hi 👋! My name is Minh and I'm a Software Engineer, from Vietnam</h2>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=caominhdev&label=Profile%20views&color=0e75b6&style=flat" alt="caominhdev" /> </p>
