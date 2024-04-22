@@ -2,8 +2,9 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&random=false&width=435&lines=See+u+again!)](https://git.io/typing-svg)
 
 ###
-<h2 align="left">Hi 👋! My name is Minh and I'm a Software Engineer, from Vietnam</h2>
+<img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExcnA3dmh5N3oxOGxvNGk0bmdxdHg5azFrajY5bWJjNHA2ODkzeGpsYyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/5IKsrAbEcwrNS/giphy.gif" width="400">
 
+<h2 align="left">Hi 👋! My name is Minh and I'm a Software Engineer, from Vietnam</h2>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=caominhdev&label=Profile%20views&color=0e75b6&style=flat" alt="caominhdev" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=caominhdev" alt="caominhdev" /></a> </p>
