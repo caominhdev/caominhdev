@@ -24,7 +24,6 @@
 ###
 <br clear="both">
 <div align="center">
-  <img height="150" src="https://camo.githubusercontent.com/c1bc09a4f5d3cc8dda7963f76519324a035ae846f50f0b3fa788492af5febeec/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f4d444a3949627878764455514d2f67697068792e676966"  />
   <a href="https://app.daily.dev/DailyDevTips">
       <img src="https://github.com/caominhdev/caominhdev/blob/master/devcard.png" width="400" alt="Cao Quốc Minh's Dev Card"/>
     </a>
