@@ -1,11 +1,15 @@
 ###
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&random=false&width=435&lines=Nice+to+meet+u!)](https://git.io/typing-svg)
+
 ###
 <h2 align="left">Hi 👋! My name is Minh and I'm a Software Engineer, from Vietnam</h2>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=caominhdev&label=Profile%20views&color=0e75b6&style=flat" alt="caominhdev" /> </p>
 <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExOXBvbjR6eGw3cXZiNHhmN2VwZm1tNHc0c2E2Ynl0NXMwMGxobWE1NiZlcD12MV9naWZzX3NlYXJjaCZjdD1n/MDJ9IbxxvDUQM/giphy.gif" width="600">
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=caominhdev" alt="caominhdev" /></a> </p>
 <p align="left"> <a href="https://twitter.com/caominhdev" target="blank"><img src="https://img.shields.io/twitter/follow/caominhdev?logo=twitter&style=for-the-badge" alt="caominhdev" /></a> </p>
+
+###
+
 - 🔭 I’m currently working on [coming soon](coming soon)
 - 🌱 I’m currently learning **NEXTJS, ANGULAR, VUE, and .NET**
 - 👯 I’m looking to collaborate on [coming soon](coming soon)
@@ -15,19 +19,22 @@
 - 💬 Ask me about **html, css, js, react, vue, angular and more**
 - 📫 How to reach me **caoquocminhktktbd@gmail.com**
 - ⚡ Fun fact **I think I am funny**
-###
+
+
 <br clear="both">
 <div align="center">
   <a href="https://app.daily.dev/DailyDevTips">
       <img src="https://github.com/caominhdev/caominhdev/blob/master/devcard.png" width="400" alt="Cao Quốc Minh's Dev Card"/>
     </a>
 </div>
-###
+
+
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=caominhdev&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=caominhdev&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
 </div>
-###
+
+
 <div align="center">
   <img src="https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=white&style=for-the-badge" height="30" alt="html5 logo"  />
   <img width="5" />
@@ -43,7 +50,8 @@
   <img width="5" />
   <img src="https://img.shields.io/badge/Tailwind CSS-06B6D4?logo=tailwindcss&logoColor=black&style=for-the-badge" height="30" alt="tailwindcss logo"  />
 </div>
-###
+
+
 <div align="center">
   <img src="https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=black&style=for-the-badge" height="30" alt="react logo"  />
   <img width="5" />
@@ -55,7 +63,8 @@
   <img width="5" />
   <img src="https://img.shields.io/badge/Electron-47848F?logo=electron&logoColor=white&style=for-the-badge" height="30" alt="electron logo"  />
 </div>
-###
+
+
 <div align="center">
   <img src="https://img.shields.io/badge/C Sharp-239120?logo=csharp&logoColor=white&style=for-the-badge" height="30" alt="csharp logo"  />
   <img width="5" />
@@ -76,7 +85,7 @@
   <img src="https://img.shields.io/badge/Amazon AWS-232F3E?logo=amazonaws&logoColor=white&style=for-the-badge" height="30" alt="amazonwebservices logo"  />
 </div>
 
-###
+
 <div align="center">
   <img src="https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white&style=for-the-badge" height="30" alt="github logo"  />
   <img width="5" />
@@ -93,14 +102,14 @@
   <img src="https://img.shields.io/badge/Microsoft Azure-0078D4?logo=microsoftazure&logoColor=white&style=for-the-badge" height="30" alt="azure logo"  />
 </div>
 
-###
+
 <div align="center">
   <img src="https://img.shields.io/badge/npm-CB3837?logo=npm&logoColor=white&style=for-the-badge" height="30" alt="npm logo"  />
   <img width="5" />
   <img src="https://img.shields.io/badge/Yarn-2C8EBB?logo=yarn&logoColor=white&style=for-the-badge" height="30" alt="yarn logo"  />
 </div>
 
-###
+
 <div align="center">
   <img src="https://img.shields.io/badge/Vite-646CFF?logo=vite&logoColor=white&style=for-the-badge" height="30" alt="vite logo"  />
   <img width="5" />
@@ -111,21 +120,21 @@
   <img src="https://img.shields.io/badge/Jest-C21325?logo=jest&logoColor=white&style=for-the-badge" height="30" alt="jest logo"  />
 </div>
 
-###
+
 <div align="center">
   <img src="https://img.shields.io/badge/GraphQL-E10098?logo=graphql&logoColor=white&style=for-the-badge" height="30" alt="graphql logo"  />
   <img width="5" />
   <img src="https://img.shields.io/badge/Apollo GraphQL-311C87?logo=apollographql&logoColor=white&style=for-the-badge" height="30" alt="apollographql logo"  />
 </div>
 
-###
+
 <div align="center">
   <img src="https://img.shields.io/badge/Flutter-02569B?logo=flutter&logoColor=white&style=for-the-badge" height="30" alt="flutter logo"  />
   <img width="12" />
   <img src="https://img.shields.io/badge/Ionic-3880FF?logo=ionic&logoColor=white&style=for-the-badge" height="30" alt="ionic logo"  />
 </div>
 
-###
+
 <div align="center">
   <img src="https://img.shields.io/badge/Visual Studio Code-007ACC?logo=visualstudiocode&logoColor=white&style=for-the-badge" height="30" alt="vscode logo"  />
   <img width="12" />
@@ -133,6 +142,7 @@
 </div>
 
 ###
+
 <div align="center">
   <img src="https://img.shields.io/badge/Adobe Photoshop-31A8FF?logo=adobephotoshop&logoColor=black&style=for-the-badge" height="30" alt="adobephotoshop logo"  />
   <img width="5" />
@@ -142,6 +152,7 @@
 </div>
 
 ###
+
 <br clear="both">
 <div align="center">
   <img src="https://raw.githubusercontent.com/caominhdev/caominhdev/output/snake.svg" alt="Snake animation" />
