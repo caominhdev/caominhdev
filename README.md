@@ -1,16 +1,11 @@
 ###
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&random=false&width=435&lines=See+u+again!)](https://git.io/typing-svg)
-
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&random=false&width=435&lines=Nice+to+meet+u!)](https://git.io/typing-svg)
 ###
-<img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExcnA3dmh5N3oxOGxvNGk0bmdxdHg5azFrajY5bWJjNHA2ODkzeGpsYyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/5IKsrAbEcwrNS/giphy.gif" width="400">
-
 <h2 align="left">Hi 👋! My name is Minh and I'm a Software Engineer, from Vietnam</h2>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=caominhdev&label=Profile%20views&color=0e75b6&style=flat" alt="caominhdev" /> </p>
-
+<img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExOXBvbjR6eGw3cXZiNHhmN2VwZm1tNHc0c2E2Ynl0NXMwMGxobWE1NiZlcD12MV9naWZzX3NlYXJjaCZjdD1n/MDJ9IbxxvDUQM/giphy.gif" width="600">
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=caominhdev" alt="caominhdev" /></a> </p>
-
 <p align="left"> <a href="https://twitter.com/caominhdev" target="blank"><img src="https://img.shields.io/twitter/follow/caominhdev?logo=twitter&style=for-the-badge" alt="caominhdev" /></a> </p>
-
 - 🔭 I’m currently working on [coming soon](coming soon)
 - 🌱 I’m currently learning **NEXTJS, ANGULAR, VUE, and .NET**
 - 👯 I’m looking to collaborate on [coming soon](coming soon)
@@ -20,7 +15,6 @@
 - 💬 Ask me about **html, css, js, react, vue, angular and more**
 - 📫 How to reach me **caoquocminhktktbd@gmail.com**
 - ⚡ Fun fact **I think I am funny**
-
 ###
 <br clear="both">
 <div align="center">
@@ -28,13 +22,11 @@
       <img src="https://github.com/caominhdev/caominhdev/blob/master/devcard.png" width="400" alt="Cao Quốc Minh's Dev Card"/>
     </a>
 </div>
-
 ###
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=caominhdev&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=caominhdev&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
 </div>
-
 ###
 <div align="center">
   <img src="https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=white&style=for-the-badge" height="30" alt="html5 logo"  />
@@ -51,9 +43,7 @@
   <img width="5" />
   <img src="https://img.shields.io/badge/Tailwind CSS-06B6D4?logo=tailwindcss&logoColor=black&style=for-the-badge" height="30" alt="tailwindcss logo"  />
 </div>
-
 ###
-
 <div align="center">
   <img src="https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=black&style=for-the-badge" height="30" alt="react logo"  />
   <img width="5" />
@@ -65,7 +55,6 @@
   <img width="5" />
   <img src="https://img.shields.io/badge/Electron-47848F?logo=electron&logoColor=white&style=for-the-badge" height="30" alt="electron logo"  />
 </div>
-
 ###
 <div align="center">
   <img src="https://img.shields.io/badge/C Sharp-239120?logo=csharp&logoColor=white&style=for-the-badge" height="30" alt="csharp logo"  />
