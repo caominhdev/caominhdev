@@ -4,7 +4,7 @@
 ###
 <h2 align="left">Hi 👋! My name is Minh and I'm a Software Engineer, from Vietnam</h2>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=caominhdev&label=Profile%20views&color=0e75b6&style=flat" alt="caominhdev" /> </p>
-<img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExOXBvbjR6eGw3cXZiNHhmN2VwZm1tNHc0c2E2Ynl0NXMwMGxobWE1NiZlcD12MV9naWZzX3NlYXJjaCZjdD1n/MDJ9IbxxvDUQM/giphy.gif" width="600">
+<img src="https://firebasestorage.googleapis.com/v0/b/upload-gif.appspot.com/o/84895d4ea0d50ea6b76c04cb1cb1681e.gif?alt=media&token=607796b1-8bf3-473e-ad1d-a99586f45539" />
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=caominhdev" alt="caominhdev" /></a> </p>
 <p align="left"> <a href="https://twitter.com/caominhdev" target="blank"><img src="https://img.shields.io/twitter/follow/caominhdev?logo=twitter&style=for-the-badge" alt="caominhdev" /></a> </p>
 
