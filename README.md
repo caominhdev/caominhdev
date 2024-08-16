@@ -1,13 +1,12 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&random=false&width=435&lines=Nice+to+meet+u!)](https://git.io/typing-svg)
 # Hi 👋! My name is Minh and I'm a Software Engineer, from Vietnam
+![Image](https://firebasestorage.googleapis.com/v0/b/upload-gif.appspot.com/o/84895d4ea0d50ea6b76c04cb1cb1681e.gif?alt=media&token=607796b1-8bf3-473e-ad1d-a99586f45539)
+![Image](https://res.cloudinary.com/practicaldev/image/fetch/s--WD_gjcQm--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_66%2Cw_800/https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExdXowZngxaGxqcHIzbHM2N2Q0eDZ1M3JzZXRuMzY3anI3aXZyazEwdCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/nkLB4Gp8H6hFe/giphy.gif)
 ![Image](https://komarev.com/ghpvc/?username=caominhdev&label=Profile%20views&color=0e75b6&style=flat)
-<img src="https://firebasestorage.googleapis.com/v0/b/upload-gif.appspot.com/o/84895d4ea0d50ea6b76c04cb1cb1681e.gif?alt=media&token=607796b1-8bf3-473e-ad1d-a99586f45539" />
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=caominhdev" alt="caominhdev" /></a> </p>
 <p align="left"> <a href="https://twitter.com/caominhdev" target="blank"><img src="https://img.shields.io/twitter/follow/caominhdev?logo=twitter&style=for-the-badge" alt="caominhdev" /></a> </p>
 
-<h2 align="left">The Brand I am using</h2>
-
-###
+# The Brand I am using
 
 - 🔭 I’m currently working on [coming soon](coming soon)
 - 🌱 I’m currently learning **NEXTJS, ANGULAR, VUE, and .NET**
