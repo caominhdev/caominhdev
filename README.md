@@ -1,9 +1,7 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&random=false&width=435&lines=Nice+to+meet+u!)](https://git.io/typing-svg)
 # Hi 👋! My name is Minh and I'm a Software Engineer, from Vietnam
-![giphy](https://github.com/user-attachments/assets/6e73f794-da29-4083-9e3d-c611dbef0b05)
-#
+![giphy](https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExZGw3Y3dhOGQyMDZvanRhM252enBiMTdmMTV0YW82enNmbnZpMmlrMiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/OqFpgF7bet1sRoCmpb/giphy.gif)
 ![Image](https://res.cloudinary.com/practicaldev/image/fetch/s--WD_gjcQm--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_66%2Cw_800/https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExdXowZngxaGxqcHIzbHM2N2Q0eDZ1M3JzZXRuMzY3anI3aXZyazEwdCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/nkLB4Gp8H6hFe/giphy.gif)
-#
 ![Image](https://komarev.com/ghpvc/?username=caominhdev&label=Profile%20views&color=0e75b6&style=flat)
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=caominhdev" alt="caominhdev" /></a> </p>
 <p align="left"> <a href="https://twitter.com/caominhdev" target="blank"><img src="https://img.shields.io/twitter/follow/caominhdev?logo=twitter&style=for-the-badge" alt="caominhdev" /></a> </p>
