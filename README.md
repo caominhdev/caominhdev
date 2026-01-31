@@ -3,8 +3,9 @@
 ## Hi 👋! My name is Minh and I'm a Software Engineer
 
 ![Image](https://res.cloudinary.com/practicaldev/image/fetch/s--WD_gjcQm--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_66%2Cw_800/https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExdXowZngxaGxqcHIzbHM2N2Q0eDZ1M3JzZXRuMzY3anI3aXZyazEwdCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/nkLB4Gp8H6hFe/giphy.gif)
+
 ![Image](https://komarev.com/ghpvc/?username=caominhdev&label=Profile%20views&color=0e75b6&style=flat)
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=caominhdev" alt="caominhdev" /></a> </p>
+
 <p align="left"> <a href="https://twitter.com/caominhdev" target="blank"><img src="https://img.shields.io/twitter/follow/caominhdev?logo=twitter&style=for-the-badge" alt="caominhdev" /></a> </p>
 
 ## The Brand I am using 
@@ -19,11 +20,15 @@
 - 📫 How to reach me **caoquocminhktktbd@gmail.com**
 - ⚡ Fun fact **I think I am funny**
 
-
 <br clear="both">
 <div align="center">
- <a href="https://app.daily.dev/caominhdev"><img src="https://api.daily.dev/devcards/v2/zfvm4Y3y0aTMoftwRWbjE.png?type=wide&r=np1" width="652" alt="Cao Quốc Minh's Dev Card"/></a>
+ 
+![Image](https://firebasestorage.googleapis.com/v0/b/upload-gif.appspot.com/o/84895d4ea0d50ea6b76c04cb1cb1681e.gif?alt=media&token=607796b1-8bf3-473e-ad1d-a99586f45539)
+
+<a href="https://app.daily.dev/caominhdev"><img src="https://api.daily.dev/devcards/v2/zfvm4Y3y0aTMoftwRWbjE.png?type=wide&r=np1" width="652" alt="Cao Quốc Minh's Dev Card"/></a>
+ 
 </div>
+
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=caominhdev&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
@@ -140,7 +145,6 @@
 </div>
 
 ![Alt text](https://spotify-recently-played-readme.vercel.app/api?user=3eud3esqhjptbvw325mjdcvrm)
-![Image](https://firebasestorage.googleapis.com/v0/b/upload-gif.appspot.com/o/84895d4ea0d50ea6b76c04cb1cb1681e.gif?alt=media&token=607796b1-8bf3-473e-ad1d-a99586f45539)
 
 <br clear="both">
 
