@@ -22,9 +22,7 @@
 
 <br clear="both">
 <div align="center">
-  <a href="https://app.daily.dev/DailyDevTips">
-      <img src="https://github.com/caominhdev/caominhdev/blob/master/devcard.png" width="400" alt="Cao Quốc Minh's Dev Card"/>
-    </a>
+ <a href="https://app.daily.dev/caominhdev"><img src="https://api.daily.dev/devcards/v2/zfvm4Y3y0aTMoftwRWbjE.png?type=wide&r=np1" width="652" alt="Cao Quốc Minh's Dev Card"/></a>
 </div>
 
 <div align="center">
