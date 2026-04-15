@@ -10,15 +10,7 @@
 
 ## The Brand I am using 
 
-- 🔭 I’m currently working on [coming soon](coming soon)
-- 🌱 I’m currently learning **NEXTJS, ANGULAR, VUE, and .NET**
-- 👯 I’m looking to collaborate on [coming soon](coming soon)
-- 🤝 I’m looking for help with [coming soon](coming soon)
-- 👨‍💻 All of my projects are available at [coming soon](coming soon)
-- 📝 I regularly write articles on [threads.com](threads.com)
-- 💬 Ask me about **html, css, js, react, vue, angular and more**
-- 📫 How to reach me **caoquocminhktktbd@gmail.com**
-- ⚡ Fun fact **I think I am funny**
+Dynamic Full-Stack Developer with 4 years of experience specializing in TypeScript, React, and ASP.NET Core. Proven track record of architecting scalable, SEO-friendly web applications and optimizing system performance. Expert in leveraging AI-driven development tools (Cursor, LLMs) to accelerate delivery cycles and enhance code maintainability. Committed to Clean Code and SOLID principles, with a deep focus on bridging the gap between high-performance backend logic and intuitive UX design.
 
 <br clear="both">
 <div align="center">
